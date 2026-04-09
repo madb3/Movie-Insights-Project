@@ -1,8 +1,8 @@
 # Exploring Movie Trends
 A class project exploring trends in the film industry using a variety of metrics
 ## Project Overview
-- Built a simple recommendation system based on movie data like genre and popularity \
-- Looked at how genres changed over time, specifically revenue and popularity \
+- Built a simple recommendation system based on movie data like genre and popularity
+- Looked at how genres changed over time, specifically revenue and popularity
 - Used data visualization methods to find trends and understand why certain movies are recommended
 
 ## Data Sources
