@@ -24,7 +24,7 @@ https://trail.pugetsound.edu/?p=18998
 
 ## Film Industry Insights
 ### How have movie genres trended over time?
-Using data visualization techniques, I was able to create a line graph comparing movie popularity and decade to find any patterns. I found that there was a large spike in the 80s and 2000s. There is a notable decline in the 2020s, with a major decline in ticket sales following the pandemic and the rise of streaming services.
+Using data visualization techniques, I was able to create a line graph comparing movie popularity and decade to find any patterns. I found that there was a large spike in horror movie production in the 80s and 2000s. There is a notable decline in the 2020s, with a major decline in ticket sales following the pandemic and the rise of streaming services.
 
 <img width="575" height="390" alt="genres over time" src="https://github.com/user-attachments/assets/ef56a3bb-4d5b-49d9-848d-2a4b0797188b" />
 
