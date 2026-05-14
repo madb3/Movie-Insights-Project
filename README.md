@@ -38,7 +38,7 @@ Using data visualization techniques, I was able to create a line graph comparing
 #### I concluded that the 3 major causes of the spike in popularity were:
 - __Cultural factors:__ As cold war tensions died down in 1980s, there was an opportunity to capitalize on emerging anxieties rooted in suburban life and the "Satanic Panic".
 - __Industry improvements:__ Better special effects technology made for a more immersive and believable horror movie experience.
-- __Low risk, high reward:__ Horror movies were cheap to produce but yielded strong box office returns, making them a good investment for production studios.
+- __Low risk, high reward:__ On average, horror movies were cheap to produce but yielded strong box office returns, making them a good investment for production studios.
 
 
 
